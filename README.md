@@ -1,5 +1,5 @@
 # Customer Shopping Behavior Analysis
-
+ 
 End-to-end analytics project on 3,900 retail purchases. Python cleans the data, MySQL answers 10 business questions, and Power BI presents the results.
 It aims to show which customer segments, discounts, subscriptions and shipping options relate to revenue and loyalty.
 
